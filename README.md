@@ -1,4 +1,5 @@
 # mtprep
+
 Learning About Version 
 
-Solving merge conflicts is hard
+solving merge conflicts takes conscious effort but I can do it.
