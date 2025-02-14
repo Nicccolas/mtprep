@@ -1,2 +1,4 @@
 # mtprep
-Learning About Version Control
+Learning About Version 
+
+Solving merge conflicts is hard
